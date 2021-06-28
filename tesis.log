@@ -1,0 +1,803 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.8)  27 JUN 2021 19:36
+entering extended mode
+**./tesis.tex
+(tesis.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> xparse <2020-03-03>
+(C:\Program Files\MiKTeX\tex/latex/base\book.cls
+Document Class: book 2020/04/10 v1.4m Standard LaTeX document class
+(C:\Program Files\MiKTeX\tex/latex/base\bk12.clo
+File: bk12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count179
+\c@chapter=\count180
+\c@section=\count181
+\c@subsection=\count182
+\c@subsubsection=\count183
+\c@paragraph=\count184
+\c@subparagraph=\count185
+\c@figure=\count186
+\c@table=\count187
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Program Files\MiKTeX\tex/latex/tocbibind\tocbibind.sty
+Package: tocbibind 2010/10/13 v1.5k extra ToC listings
+Package tocbibind Info: The document has chapter divisions on input line 50.
+
+
+Package tocbibind Note: Using chapter style headings, unless overridden.
+
+) (C:\Program Files\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(C:\Program Files\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count188
+\Gm@cntv=\count189
+\c@Gm@tempcnt=\count190
+\Gm@bindingoffset=\dimen139
+\Gm@wd@mp=\dimen140
+\Gm@odd@mp=\dimen141
+\Gm@even@mp=\dimen142
+\Gm@layoutwidth=\dimen143
+\Gm@layoutheight=\dimen144
+\Gm@layouthoffset=\dimen145
+\Gm@layoutvoffset=\dimen146
+\Gm@dimlist=\toks16
+
+(C:\Program Files\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Program Files\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+)
+(C:\Program Files\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2021/01/26 3.53 The Babel package
+
+(C:\Program Files\MiKTeX\tex/generic/babel\babel.def
+File: babel.def 2021/01/26 3.53 Babel common definitions
+\babel@savecnt=\count191
+\U@D=\dimen147
+\l@babelnohyphens=\language79
+
+(C:\Program Files\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count192
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Program Files\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Program Files\MiKTeX\tex/latex/babel-spanish\spanish.ldf
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+\es@quottoks=\toks19
+\es@quotdepth=\count193
+Package babel Info: Making " an active character on input line 561.
+))
+(C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen148
+\Gin@req@width=\dimen149
+)
+(C:\Program Files\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+)
+(C:\Program Files\MiKTeX\tex/latex/pslatex\pslatex.sty
+Package: pslatex 2021/01/13 v1.3 pslatex emulation (DPC)
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 66.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ptmcm/m/n on input line 66.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptmcm/m/n on input line 66.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 67.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ptmcm/m/it on input line 67.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ptmcm/m/it on input line 67.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 68.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/pzccm/m/n on input line 68.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/pzccm/m/n on input line 68.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 69.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/psycm/m/n on input line 69.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/psycm/m/n on input line 69.
+\symbold=\mathgroup4
+\symitalic=\mathgroup5
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 75.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 75.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 75.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 76.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 76.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 76.
+)
+(C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-02-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count194
+\l__pdf_internal_box=\box47
+) (tesis.aux
+LaTeX Info: Redefining \. on input line 5.
+LaTeX Info: Redefining \% on input line 5.
+)
+\openout1 = `tesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/pzccm/m/n on input line 31.
+LaTeX Font Info:    Trying to load font information for OMS+pzccm on input line
+ 31.
+
+(C:\Program Files\MiKTeX\tex/latex/psnfss\omspzccm.fd
+File: omspzccm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/pzccm.
+)
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(71.13188pt, 472.03123pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 652.70622pt, 71.13188pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=472.03123pt
+* \textheight=652.70622pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-33.0119pt
+* \headheight=12.0pt
+* \headsep=19.8738pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=98.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Info: Redefining \. on input line 31.
+LaTeX Info: Redefining \% on input line 31.
+(C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count195
+\scratchdimen=\dimen150
+\scratchbox=\box48
+\nofMPsegments=\count196
+\nofMParguments=\count197
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count198
+\MPscratchDim=\dimen151
+\MPnumerator=\count199
+\makeMPintoPDFobject=\count266
+\everyMPtoPDFconversion=\toks21
+) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+<imagenes/logo.png, id=1, 346.29375pt x 146.5475pt>
+File: imagenes/logo.png Graphic file (type png)
+<use imagenes/logo.png>
+Package pdftex.def Info: imagenes/logo.png  used on input line 33.
+(pdftex.def)             Requested size: 377.62642pt x 159.81184pt.
+LaTeX Font Info:    Trying to load font information for OT1+ptmcm on input line
+ 33.
+
+(C:\Program Files\MiKTeX\tex/latex/psnfss\ot1ptmcm.fd
+File: ot1ptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ptmcm.
+)
+LaTeX Font Info:    Trying to load font information for OML+ptmcm on input line
+ 33.
+
+(C:\Program Files\MiKTeX\tex/latex/psnfss\omlptmcm.fd
+File: omlptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ptmcm.
+)
+LaTeX Font Info:    Trying to load font information for OMX+psycm on input line
+ 33.
+
+(C:\Program Files\MiKTeX\tex/latex/psnfss\omxpsycm.fd
+File: omxpsycm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/psycm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 33.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 33.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 33.
+
+
+LaTeX Warning: No \author given.
+
+[1
+
+
+{C:/Users/Beto/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./imagenes/logo.
+png>] [2
+
+] [1
+
+] [2
+
+] [3] [4
+
+] [5] [6
+
+] (tesis.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
+ [7])
+\tf@toc=\write3
+\openout3 = `tesis.toc'.
+
+LaTeX Info: Redefining \. on input line 44.
+LaTeX Info: Redefining \% on input line 44.
+ [8] (tesis.lof
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
+\tf@lof=\write4
+\openout4 = `tesis.lof'.
+
+ [9
+
+]
+LaTeX Info: Redefining \. on input line 45.
+LaTeX Info: Redefining \% on input line 45.
+
+[10]
+Cap\'{\i }tulo 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--51
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--51
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1
+
+
+]
+LaTeX Info: Redefining \. on input line 76.
+LaTeX Info: Redefining \% on input line 76.
+
+[2]
+LaTeX Info: Redefining \. on input line 98.
+LaTeX Info: Redefining \% on input line 98.
+ [3]
+LaTeX Info: Redefining \. on input line 98.
+LaTeX Info: Redefining \% on input line 98.
+ [4
+
+]
+Cap\'{\i }tulo 2.
+<imagenes/boya.jpeg, id=59, 518.93875pt x 542.025pt>
+File: imagenes/boya.jpeg Graphic file (type jpg)
+<use imagenes/boya.jpeg>
+Package pdftex.def Info: imagenes/boya.jpeg  used on input line 104.
+(pdftex.def)             Requested size: 236.01561pt x 246.5225pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5 <./imagenes/boya.jpeg>]
+LaTeX Info: Redefining \. on input line 132.
+LaTeX Info: Redefining \% on input line 132.
+ [6]
+Underfull \hbox (badness 10000) in paragraph at lines 145--152
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--152
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--152
+
+ []
+
+LaTeX Info: Redefining \. on input line 158.
+LaTeX Info: Redefining \% on input line 158.
+[7]
+<imagenes/file.jpg, id=70, 376.40625pt x 501.875pt>
+File: imagenes/file.jpg Graphic file (type jpg)
+<use imagenes/file.jpg>
+Package pdftex.def Info: imagenes/file.jpg  used on input line 162.
+(pdftex.def)             Requested size: 188.8096pt x 251.74863pt.
+
+Underfull \vbox (badness 1681) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 168.
+LaTeX Info: Redefining \% on input line 168.
+ [8 <./imagenes/file.jpg>]
+<imagenes/redsigfox.png, id=74, 524.71031pt x 328.22626pt>
+File: imagenes/redsigfox.png Graphic file (type png)
+<use imagenes/redsigfox.png>
+Package pdftex.def Info: imagenes/redsigfox.png  used on input line 181.
+(pdftex.def)             Requested size: 377.62642pt x 236.22755pt.
+<imagenes/trama.png, id=76, 569.12625pt x 291.33844pt>
+File: imagenes/trama.png Graphic file (type png)
+<use imagenes/trama.png>
+Package pdftex.def Info: imagenes/trama.png  used on input line 188.
+(pdftex.def)             Requested size: 330.42041pt x 169.14978pt.
+LaTeX Info: Redefining \. on input line 192.
+LaTeX Info: Redefining \% on input line 192.
+ [9 <./imagenes/redsigfox.png>]
+<imagenes/Cobertura.png, id=81, 545.78906pt x 283.81032pt>
+File: imagenes/Cobertura.png Graphic file (type png)
+<use imagenes/Cobertura.png>
+Package pdftex.def Info: imagenes/Cobertura.png  used on input line 196.
+(pdftex.def)             Requested size: 377.62642pt x 196.36632pt.
+LaTeX Info: Redefining \. on input line 206.
+LaTeX Info: Redefining \% on input line 206.
+ [10 <./imagenes/trama.png> <./imagenes/Cobertura.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 216--219
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--219
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--219
+
+ []
+
+LaTeX Info: Redefining \. on input line 222.
+LaTeX Info: Redefining \% on input line 222.
+[11]
+<imagenes/esquemasigfox.jpg, id=90, 770.88pt x 466.74374pt>
+File: imagenes/esquemasigfox.jpg Graphic file (type jpg)
+<use imagenes/esquemasigfox.jpg>
+Package pdftex.def Info: imagenes/esquemasigfox.jpg  used on input line 226.
+(pdftex.def)             Requested size: 236.01561pt x 142.89433pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--237
+
+ []
+
+
+Underfull \vbox (badness 7133) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 237.
+LaTeX Info: Redefining \% on input line 237.
+ [12 <./imagenes/esquemasigfox.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 238--239
+
+ []
+
+<imagenes/sensores.jpg, id=94, 963.6pt x 542.025pt>
+File: imagenes/sensores.jpg Graphic file (type jpg)
+<use imagenes/sensores.jpg>
+Package pdftex.def Info: imagenes/sensores.jpg  used on input line 242.
+(pdftex.def)             Requested size: 283.22162pt x 159.30876pt.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 2
+53.
+(C:\Program Files\MiKTeX\tex/latex/psnfss\ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 252--254
+
+ []
+
+LaTeX Info: Redefining \. on input line 255.
+LaTeX Info: Redefining \% on input line 255.
+[13 <./imagenes/sensores.jpg>]
+<imagenes/temperatura.png, id=99, 1047.915pt x 826.08624pt>
+File: imagenes/temperatura.png Graphic file (type png)
+<use imagenes/temperatura.png>
+Package pdftex.def Info: imagenes/temperatura.png  used on input line 269.
+(pdftex.def)             Requested size: 188.8096pt x 148.84036pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--278
+
+ []
+
+<imagenes/co2.png, id=100, 602.25pt x 237.88875pt>
+File: imagenes/co2.png Graphic file (type png)
+<use imagenes/co2.png>
+Package pdftex.def Info: imagenes/co2.png  used on input line 281.
+(pdftex.def)             Requested size: 283.22162pt x 111.87668pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Info: Redefining \. on input line 288.
+LaTeX Info: Redefining \% on input line 288.
+[14 <./imagenes/temperatura.png>]
+LaTeX Info: Redefining \. on input line 293.
+LaTeX Info: Redefining \% on input line 293.
+ [15 <./imagenes/co2.png>]
+<imagenes/ruta.png, id=109, 548.80031pt x 439.6425pt>
+File: imagenes/ruta.png Graphic file (type png)
+<use imagenes/ruta.png>
+Package pdftex.def Info: imagenes/ruta.png  used on input line 299.
+(pdftex.def)             Requested size: 188.8096pt x 151.2542pt.
+<imagenes/analizador.png, id=110, 615.0478pt x 325.215pt>
+File: imagenes/analizador.png Graphic file (type png)
+<use imagenes/analizador.png>
+Package pdftex.def Info: imagenes/analizador.png  used on input line 308.
+(pdftex.def)             Requested size: 188.8096pt x 99.83801pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 313.
+LaTeX Info: Redefining \% on input line 313.
+ [16 <./imagenes/ruta.png> <./imagenes/analizador.png>]
+LaTeX Info: Redefining \. on input line 325.
+LaTeX Info: Redefining \% on input line 325.
+ [17]
+LaTeX Info: Redefining \. on input line 325.
+LaTeX Info: Redefining \% on input line 325.
+ [18
+
+]
+Cap\'{\i }tulo 3.
+<imagenes/cascada.png, id=120, 717.68124pt x 525.965pt>
+File: imagenes/cascada.png Graphic file (type png)
+<use imagenes/cascada.png>
+Package pdftex.def Info: imagenes/cascada.png  used on input line 331.
+(pdftex.def)             Requested size: 236.01561pt x 172.96706pt.
+[19 <./imagenes/cascada.png>]
+LaTeX Info: Redefining \. on input line 351.
+LaTeX Info: Redefining \% on input line 351.
+ [20]
+Cap\'{\i }tulo 4.
+[21
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 370--371
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 373--375
+
+ []
+
+LaTeX Info: Redefining \. on input line 375.
+LaTeX Info: Redefining \% on input line 375.
+[22]
+LaTeX Info: Redefining \. on input line 393.
+LaTeX Info: Redefining \% on input line 393.
+ [23]
+<imagenes/Uart.png, id=138, 395.4775pt x 239.89626pt>
+File: imagenes/Uart.png Graphic file (type png)
+<use imagenes/Uart.png>
+Package pdftex.def Info: imagenes/Uart.png  used on input line 399.
+(pdftex.def)             Requested size: 236.01561pt x 143.16649pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 409--410
+
+ []
+
+LaTeX Info: Redefining \. on input line 410.
+LaTeX Info: Redefining \% on input line 410.
+[24 <./imagenes/Uart.png>]
+LaTeX Info: Redefining \. on input line 434.
+LaTeX Info: Redefining \% on input line 434.
+ [25]
+<imagenes/arduino.png, id=147, 841.1425pt x 2370.8575pt>
+File: imagenes/arduino.png Graphic file (type png)
+<use imagenes/arduino.png>
+Package pdftex.def Info: imagenes/arduino.png  used on input line 449.
+(pdftex.def)             Requested size: 330.41869pt x 652.69327pt.
+
+
+LaTeX Warning: Float too large for page by 27.08495pt on input line 452.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 457--458
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 458.
+LaTeX Info: Redefining \% on input line 458.
+ [26]
+LaTeX Info: Redefining \. on input line 458.
+LaTeX Info: Redefining \% on input line 458.
+
+[27 <./imagenes/arduino.png>]
+Overfull \hbox (1.72403pt too wide) in paragraph at lines 459--462
+\T1/ptm/m/n/12 pa-rá-me-tros y el ti-po de da-tos, en es-te ca-so se con-fi-gu-
+ro de la si-guien-te ma-ne-ra: \T1/ptm/b/n/12 temp::float:32:little-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--462
+
+ []
+
+<imagenes/custom_grammar.png, id=155, 1028.34187pt x 482.55281pt>
+File: imagenes/custom_grammar.png Graphic file (type png)
+<use imagenes/custom_grammar.png>
+Package pdftex.def Info: imagenes/custom_grammar.png  used on input line 465.
+(pdftex.def)             Requested size: 472.03123pt x 221.50574pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 470--471
+
+ []
+
+<imagenes/mensajes_sigfox.png, id=156, 1028.34187pt x 481.04718pt>
+File: imagenes/mensajes_sigfox.png Graphic file (type png)
+<use imagenes/mensajes_sigfox.png>
+Package pdftex.def Info: imagenes/mensajes_sigfox.png  used on input line 474.
+(pdftex.def)             Requested size: 472.03123pt x 220.8146pt.
+LaTeX Info: Redefining \. on input line 484.
+LaTeX Info: Redefining \% on input line 484.
+[28 <./imagenes/custom_grammar.png>]
+<imagenes/callback.png, id=161, 1028.34187pt x 479.54156pt>
+File: imagenes/callback.png Graphic file (type png)
+<use imagenes/callback.png>
+Package pdftex.def Info: imagenes/callback.png  used on input line 487.
+(pdftex.def)             Requested size: 377.62642pt x 176.09587pt.
+
+Underfull \vbox (badness 1867) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 495.
+LaTeX Info: Redefining \% on input line 495.
+ [29 <./imagenes/mensajes_sigfox.png> <./imagenes/callback.png>]
+<imagenes/diagramaBoya.png, id=167, 380.77257pt x 272.36757pt>
+File: imagenes/diagramaBoya.png Graphic file (type png)
+<use imagenes/diagramaBoya.png>
+Package pdftex.def Info: imagenes/diagramaBoya.png  used on input line 498.
+(pdftex.def)             Requested size: 377.62642pt x 270.13095pt.
+<imagenes/arquitecturaProyecto.png, id=168, 682.49982pt x 196.03238pt>
+File: imagenes/arquitecturaProyecto.png Graphic file (type png)
+<use imagenes/arquitecturaProyecto.png>
+Package pdftex.def Info: imagenes/arquitecturaProyecto.png  used on input line 
+505.
+(pdftex.def)             Requested size: 377.62642pt x 108.46722pt.
+LaTeX Info: Redefining \. on input line 514.
+LaTeX Info: Redefining \% on input line 514.
+ [30 <./imagenes/diagramaBoya.png> <./imagenes/arquitecturaProyecto.png>]
+<imagenes/dbmensajes.png, id=174, 609.77812pt x 82.80937pt>
+File: imagenes/dbmensajes.png Graphic file (type png)
+<use imagenes/dbmensajes.png>
+Package pdftex.def Info: imagenes/dbmensajes.png  used on input line 531.
+(pdftex.def)             Requested size: 377.62642pt x 51.28441pt.
+<imagenes/guardar_datos.png, id=175, 1589.94pt x 1055.945pt>
+File: imagenes/guardar_datos.png Graphic file (type png)
+<use imagenes/guardar_datos.png>
+Package pdftex.def Info: imagenes/guardar_datos.png  used on input line 538.
+(pdftex.def)             Requested size: 377.62642pt x 250.78954pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<imagenes/dbusuario.png, id=176, 585.68813pt x 62.48344pt>
+File: imagenes/dbusuario.png Graphic file (type png)
+<use imagenes/dbusuario.png>
+Package pdftex.def Info: imagenes/dbusuario.png  used on input line 551.
+(pdftex.def)             Requested size: 377.62642pt x 40.28862pt.
+LaTeX Info: Redefining \. on input line 554.
+LaTeX Info: Redefining \% on input line 554.
+[31 <./imagenes/dbmensajes.png>]
+<imagenes/phplogin.png, id=182, 1688.3075pt x 1322.9425pt>
+File: imagenes/phplogin.png Graphic file (type png)
+<use imagenes/phplogin.png>
+Package pdftex.def Info: imagenes/phplogin.png  used on input line 558.
+(pdftex.def)             Requested size: 377.62642pt x 295.893pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 565.
+LaTeX Info: Redefining \% on input line 565.
+ [32 <./imagenes/guardar_datos.png> <./imagenes/dbusuario.png>]
+<imagenes/dbcoordenadas.png, id=188, 457.71pt x 182.18062pt>
+File: imagenes/dbcoordenadas.png Graphic file (type png)
+<use imagenes/dbcoordenadas.png>
+Package pdftex.def Info: imagenes/dbcoordenadas.png  used on input line 570.
+(pdftex.def)             Requested size: 377.62642pt x 150.31197pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 580.
+LaTeX Info: Redefining \% on input line 580.
+ [33 <./imagenes/phplogin.png>]
+<imagenes/login.png, id=193, 320.69812pt x 246.1697pt>
+File: imagenes/login.png Graphic file (type png)
+<use imagenes/login.png>
+Package pdftex.def Info: imagenes/login.png  used on input line 586.
+(pdftex.def)             Requested size: 236.01561pt x 181.17107pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 595.
+LaTeX Info: Redefining \% on input line 595.
+ [34 <./imagenes/dbcoordenadas.png> <./imagenes/login.png>]
+<imagenes/oxigenoGrafica.png, id=199, 1028.34187pt x 478.78876pt>
+File: imagenes/oxigenoGrafica.png Graphic file (type png)
+<use imagenes/oxigenoGrafica.png>
+Package pdftex.def Info: imagenes/oxigenoGrafica.png  used on input line 602.
+(pdftex.def)             Requested size: 377.62642pt x 175.81941pt.
+<imagenes/temperaturaGrafica.png, id=200, 1028.34187pt x 380.92313pt>
+File: imagenes/temperaturaGrafica.png Graphic file (type png)
+<use imagenes/temperaturaGrafica.png>
+Package pdftex.def Info: imagenes/temperaturaGrafica.png  used on input line 61
+1.
+(pdftex.def)             Requested size: 330.42041pt x 122.39775pt.
+<imagenes/turbidezGrafica.png, id=201, 1028.34187pt x 386.19281pt>
+File: imagenes/turbidezGrafica.png Graphic file (type png)
+<use imagenes/turbidezGrafica.png>
+Package pdftex.def Info: imagenes/turbidezGrafica.png  used on input line 620.
+(pdftex.def)             Requested size: 330.42041pt x 124.09099pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<imagenes/co2Grafica.png, id=202, 1028.34187pt x 389.95688pt>
+File: imagenes/co2Grafica.png Graphic file (type png)
+<use imagenes/co2Grafica.png>
+Package pdftex.def Info: imagenes/co2Grafica.png  used on input line 629.
+(pdftex.def)             Requested size: 330.42041pt x 125.30046pt.
+LaTeX Info: Redefining \. on input line 632.
+LaTeX Info: Redefining \% on input line 632.
+[35 <./imagenes/oxigenoGrafica.png> <./imagenes/temperaturaGrafica.png>]
+<imagenes/tablaVariables.png, id=208, 1028.34187pt x 466.74374pt>
+File: imagenes/tablaVariables.png Graphic file (type png)
+<use imagenes/tablaVariables.png>
+Package pdftex.def Info: imagenes/tablaVariables.png  used on input line 640.
+(pdftex.def)             Requested size: 377.62642pt x 171.39629pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<imagenes/tablaCoordenadas.png, id=209, 1028.34187pt x 456.95718pt>
+File: imagenes/tablaCoordenadas.png Graphic file (type png)
+<use imagenes/tablaCoordenadas.png>
+Package pdftex.def Info: imagenes/tablaCoordenadas.png  used on input line 647.
+
+(pdftex.def)             Requested size: 377.62642pt x 167.80249pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 656.
+LaTeX Info: Redefining \% on input line 656.
+ [36 <./imagenes/turbidezGrafica.png> <./imagenes/co2Grafica.png>]
+<imagenes/excel.png, id=215, 1028.34187pt x 555.57562pt>
+File: imagenes/excel.png Graphic file (type png)
+<use imagenes/excel.png>
+Package pdftex.def Info: imagenes/excel.png  used on input line 659.
+(pdftex.def)             Requested size: 377.62642pt x 204.01686pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 669.
+LaTeX Info: Redefining \% on input line 669.
+ [37 <./imagenes/tablaVariables.png> <./imagenes/tablaCoordenadas.png>]
+<imagenes/coordenadasArduino.png, id=222, 991.705pt x 827.09pt>
+File: imagenes/coordenadasArduino.png Graphic file (type png)
+<use imagenes/coordenadasArduino.png>
+Package pdftex.def Info: imagenes/coordenadasArduino.png  used on input line 67
+2.
+(pdftex.def)             Requested size: 330.42041pt x 275.56557pt.
+<imagenes/localizacion.png, id=223, 1028.34187pt x 430.60875pt>
+File: imagenes/localizacion.png Graphic file (type png)
+<use imagenes/localizacion.png>
+Package pdftex.def Info: imagenes/localizacion.png  used on input line 679.
+(pdftex.def)             Requested size: 330.42041pt x 138.36267pt.
+LaTeX Info: Redefining \. on input line 682.
+LaTeX Info: Redefining \% on input line 682.
+ [38 <./imagenes/excel.png> <./imagenes/coordenadasArduino.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 685--686
+
+ []
+
+LaTeX Info: Redefining \. on input line 698.
+LaTeX Info: Redefining \% on input line 698.
+[39 <./imagenes/localizacion.png>]
+LaTeX Info: Redefining \. on input line 698.
+LaTeX Info: Redefining \% on input line 698.
+ [40
+
+] [41] (tesis.aux
+LaTeX Info: Redefining \. on input line 5.
+LaTeX Info: Redefining \% on input line 5.
+) ) 
+Here is how much of TeX's memory you used:
+ 3776 strings out of 479334
+ 55487 string characters out of 2866964
+ 364710 words of memory out of 3000000
+ 21146 multiletter control sequences out of 15000+200000
+ 467483 words of font info for 97 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 68i,6n,74p,1433b,422s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTe
+X/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/t
+imes/utmb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/P
+rogram Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX/f
+onts/type1/urw/times/utmri8a.pfb>
+Output written on tesis.pdf (53 pages, 2735237 bytes).
+PDF statistics:
+ 259 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 176 words of extra memory for PDF output out of 10000 (max. 10000000)
+

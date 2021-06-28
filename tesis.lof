@@ -1,0 +1,39 @@
+\babel@toc {spanish}{}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Boya Meteorológica }}{5}{}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Tarjeta de Desarrollo Sigfox}}{8}{}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Países que cuentan con red Sigfox.}}{9}{}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Trama del mensaje enviado al Backend Sigfox. }}{10}{}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Cobertura de Sigfox en Manzanillo.}}{10}{}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces funcionamiento sigfox }}{12}{}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Sensores}}{13}{}%
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Grafica de rango de medición de temperatura}}{14}{}%
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Grafica de rango de medición de CO2}}{15}{}%
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Ruta óptica LI-820 }}{16}{}%
+\contentsline {figure}{\numberline {2.11}{\ignorespaces Analizador de CO2 LI-820 }}{16}{}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Modelo en cascada}}{19}{}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Comunicación UART}}{24}{}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Lectura de sensor}}{27}{}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Configuración del payload}}{28}{}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Mensajes en Sigfox}}{29}{}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Configuración del Callback}}{29}{}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Diagrama de comunicación entre la boya y la tarjeta de desarrollo}}{30}{}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Diagrama de comunicación del proyecto}}{30}{}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Tabla de mensajes.}}{31}{}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Guardando los datos enviados desde Sigfox con PHP}}{32}{}%
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Tabla de usuarios.}}{32}{}%
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Validación para el inicio de sesón con PHP}}{33}{}%
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Coordenadas}}{34}{}%
+\contentsline {figure}{\numberline {4.13}{\ignorespaces Inicio de sesión}}{34}{}%
+\contentsline {figure}{\numberline {4.14}{\ignorespaces }}{35}{}%
+\contentsline {figure}{\numberline {4.15}{\ignorespaces Gráfica de temperatura}}{35}{}%
+\contentsline {figure}{\numberline {4.16}{\ignorespaces Gráfica de turbidez}}{36}{}%
+\contentsline {figure}{\numberline {4.17}{\ignorespaces Gráfica de dióxido de carbono}}{36}{}%
+\contentsline {figure}{\numberline {4.18}{\ignorespaces Tabla de datos}}{37}{}%
+\contentsline {figure}{\numberline {4.19}{\ignorespaces Tabla de coordenadas}}{37}{}%
+\contentsline {figure}{\numberline {4.20}{\ignorespaces Tabla en Excel}}{38}{}%
+\contentsline {figure}{\numberline {4.21}{\ignorespaces Obtención de coordenadas con el módulo GPS}}{38}{}%
+\contentsline {figure}{\numberline {4.22}{\ignorespaces Localización}}{39}{}%
